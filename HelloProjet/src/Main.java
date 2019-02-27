@@ -7,5 +7,6 @@ public class Main {
     {
         System.out.println("HelloWorld!");
         System.out.println("idea修改");
+        System.out.println("idea修改第二次，能行吗？");
     }
 }
